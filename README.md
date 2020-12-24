@@ -5,14 +5,14 @@
 更改编译为RM2100（红米AC2100），如果你不想造轮子来使用编译好的话，其生成的包在`Actions`中。
 ## 功能编译如下
 
-SS Plus+
-Adbyby plus+
-阿里DDNS
-SmartDNS
-Koolproxy广告过滤
-在线文件管理
-AdguardHome
-网易云解锁
++ SS Plus+
++ Adbyby plus+
++ 阿里DDNS
++ SmartDNS
++ Koolproxy广告过滤
++ 在线文件管理
++ AdguardHome
++ 网易云解锁
 
 ```
         echo "CONFIG_FIRMWARE_INCLUDE_MENTOHUST=n" >> .config #MENTOHUST
